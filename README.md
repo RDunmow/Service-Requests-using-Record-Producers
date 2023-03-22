@@ -119,7 +119,7 @@ Key information is
 | **Primary field** | Number | This is the main highlighted field, Short description is often used, but we haven't populated this in our example |
 | **Secondary fields to display** | Pick a selection of the fields you want to show ||
 
-Click Save or Update to save this to the
+Click Save or Update to save this to the system.
 
 ### Back to the Employee Portal
 
