@@ -10,7 +10,7 @@ Our example application is for a Service Request for vetting new employees at "B
 ### Create a new App using App Engine Studio
 Log into your dev environment and create a new application, in this example we will be calling it out Employee Vetting application
 
-![](./media/image1.png)
+![](./media/Image1.png)
 
 Run through the setup process to create the basic application.
 
